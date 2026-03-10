@@ -10,3 +10,4 @@ int main(){
     printf("perimeter of the circle is : %.2f\n", perimeter);
     return 0;
 }
+snake way
