@@ -11,3 +11,4 @@ int main(){
     printf("Simple interest is : %.2f",interest);
     return 0;
 }
+snake way
